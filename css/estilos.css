@@ -1,9 +1,15 @@
-p {
-  color: blue;
+#contenedor{
+  background-color: #fff8f0;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
 }
 
-div{
-  background-color: aqua;
+div.encabezado{
+  color: #5a3e36;
+  font-family:Georgia, serif;
+  font-size: 36px;
+  text-align: center;
+  background-image: url("./../guesteaus.png");
 }
 
 
