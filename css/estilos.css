@@ -27,6 +27,15 @@ div.contenido{
   color: #5a3e36;
   font-family: Georgia, serif;
   font-size: 18px;
+  float: left; width: 660px; margin: 20px; 
+}
+
+div.sidebar{
+  background-color: #ecdcc6;
+  color: #5a3e36;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  float:right;width:220px;margin:20px 0px;padding:20px;
 }
 
 
