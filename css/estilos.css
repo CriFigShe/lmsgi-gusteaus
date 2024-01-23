@@ -23,6 +23,7 @@ div.menu ul, a, li{
 }
 div.menu a:hover{
   color: #8b6f47;
+  text-decoration: none;
 }
 
 div.contenido{
@@ -30,6 +31,8 @@ div.contenido{
   color: #5a3e36;
   font-family: Georgia, serif;
   font-size: 18px;
+  float: left;
+  width: 70%;
 }
 
 div.sidebar{
@@ -37,6 +40,9 @@ div.sidebar{
   color: #5a3e36;
   font-family: Georgia, serif;
   font-size: 18px;
+  float: right;
+  width: 30%;
+
 }
 
 div.pie{
@@ -53,6 +59,8 @@ div.pie a{
 }
 div.pie a:hover{
   color: #8b6f47;
+  text-decoration: none;
 }
+
 
 
