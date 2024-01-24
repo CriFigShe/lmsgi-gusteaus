@@ -83,3 +83,28 @@ label{
   display:block;
 }
 
+li[data-alergenos="lacteos"]{
+  color:burlywood;
+}
+li[data-alergenos="nueces"],li[data-alergenos="nueces mariscos"]{
+  color:#492a22;
+}
+li[data-alergenos="mariscos"]{
+  color:#8b6f47;
+}
+li[data-alergenos="verduras"]{
+  color:khaki;
+}
+li[data-alergenos="huevo"],li[data-alergenos="huevo jamon"]{
+  color:#5a3e36;
+}
+li[data-alergenos="gluten"]{
+  color:#250d07;
+}
+li[data-alergenos="fruta"]{
+  color:#302320;
+}
+li[data-alergenos="chocolate"]{
+  color:#443526;
+}
+
