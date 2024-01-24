@@ -107,4 +107,7 @@ li[data-alergenos="fruta"]{
 li[data-alergenos="chocolate"]{
   color:#443526;
 }
+li:hover{
+  font-weight: bolder; 
+}
 
